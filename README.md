@@ -23,6 +23,12 @@ The dataset contains order-level sales information including region, category, s
   - Category-wise sales contribution
 - Used Python Pandas to reproduce and validate the same analysis programmatically
 
+## region_sales_pivot.png & category_sales_pivot.png
+
+<img width="699" height="414" alt="pivot region" src="https://github.com/user-attachments/assets/dad40810-54e1-492e-892e-fdef5e013bf2" />
+<img width="742" height="565" alt="pivot catogery" src="https://github.com/user-attachments/assets/d917841f-9b10-4f7d-8c61-1b1a8cb29efb" />
+
+
 ## Key Insights
 - Certain regions contribute significantly higher sales compared to others
 - Technology and Office Supplies categories generate higher revenue
